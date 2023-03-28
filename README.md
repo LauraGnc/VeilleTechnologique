@@ -1,6 +1,25 @@
 # Veille Technologique
 
-Qu'est-ce qu'une veille technologique?
-La veille technologique consiste à se documenter de façon systématique sur les techniques les plus récentes et surtout sur leur mise à disposition commerciale (ce qui constitue la différence entre la technique et la technologique). Cette activité met en œuvre des techniques d’acquisition, de stockage et d’analyse d’informations et leur distribution automatique aux différentes sections concernées de l’entreprise, à la manière d’une revue de presse.
+La veille technologique consiste à s’informer en continue sur les nouveautés du secteur, les inventions des concurrents ainsi que les nouvelles technologies et ce dans le but d’être le meilleur de son domaine.
 
-Ici vous trouverez mes articles pour ma veille technologique.
+En effet, l’informatique étant en constante évolution, la veille est une partie essentielle de notre travail et peut prendre beaucoup de temps. C’est pour cela qu’il faut savoir organiser sa veille technologique pour être toujours à jour de l’actualité sans perdre de temps.
+
+La veille technologique est utilisée pour de nombreuses raisons, principalement :
+
+Suivre les évolutions techniques
+Anticiper sur la concurrence : on peut ainsi rester à la pointe du marché en acquérant toutes les nouvelles technologies qui permettent de disposer d’un avantage concurrentiel.
+Diminuer les coûts de production
+Augmenter la qualité des produits
+Identifier les meilleures pratiques
+Augmenter nos compétences
+Voici les quelques outils et technique pour mener à bien sa veille technologique :
+
+Les flux RSS
+Les réseaux sociaux comme Twitter et Facebook
+Google Alert
+Newsletter
+Les sites d’actualités (pour l’informatique: Developpez.net, 01net)
+Les sites spécialisés
+Dans le cadre du BTS SIO, spécialité SISR, la mise en place d’une veille technologique est imposée.
+La veille permet de s’informer des nouveautés dans certains domaines définis.
+Dans le cadre de ma veille technologique, j’ai choisi de sélectionner le thème « WiFi » :
