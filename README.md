@@ -15,16 +15,14 @@ La veille technologique est utilisée pour de nombreuses raisons, principalement
 - Augmenter la qualité des produits
 
 - Identifier les meilleures pratiques
+- 
 - Augmenter nos compétences
 
 Voici les quelques outils et technique pour mener à bien sa veille technologique:
 
-Les flux RSS
-Les réseaux sociaux comme Twitter et Facebook
-Google Alert
-Newsletter
-Les sites d’actualités (pour l’informatique: Developpez.net, 01net)
-Les sites spécialisés
-Dans le cadre du BTS SIO, spécialité SISR, la mise en place d’une veille technologique est imposée.
-La veille permet de s’informer des nouveautés dans certains domaines définis.
-Dans le cadre de ma veille technologique, j’ai choisi de sélectionner le thème « WiFi » :
+- Les flux RSS
+- Les réseaux sociaux comme Twitter et Facebook
+- Google Alert
+- Newsletter
+- Les sites d’actualités (pour l’informatique: Developpez.net, 01net)
+- Les sites spécialisés
