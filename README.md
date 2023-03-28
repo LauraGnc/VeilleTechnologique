@@ -6,13 +6,18 @@ En effet, l’informatique étant en constante évolution, la veille est une par
 
 La veille technologique est utilisée pour de nombreuses raisons, principalement :
 
-Suivre les évolutions techniques
-Anticiper sur la concurrence : on peut ainsi rester à la pointe du marché en acquérant toutes les nouvelles technologies qui permettent de disposer d’un avantage concurrentiel.
-Diminuer les coûts de production
-Augmenter la qualité des produits
-Identifier les meilleures pratiques
-Augmenter nos compétences
-Voici les quelques outils et technique pour mener à bien sa veille technologique :
+- Suivre les évolutions techniques
+
+- Anticiper sur la concurrence : on peut ainsi rester à la pointe du marché en acquérant toutes les nouvelles technologies qui permettent de disposer d’un avantage concurrentiel.
+
+- Diminuer les coûts de production
+
+- Augmenter la qualité des produits
+
+- Identifier les meilleures pratiques
+- Augmenter nos compétences
+
+Voici les quelques outils et technique pour mener à bien sa veille technologique:
 
 Les flux RSS
 Les réseaux sociaux comme Twitter et Facebook
