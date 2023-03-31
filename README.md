@@ -21,3 +21,7 @@ Voici les quelques outils et technique pour mener à bien sa veille technologiqu
 - Newsletter
 - Les sites d’actualités (pour l’informatique: Developpez.net, 01net)
 - Les sites spécialisés
+
+# Ce que je presente
+
+Dans le cadre de mon BTS, ma veille technologique se portera sur...
