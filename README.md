@@ -24,4 +24,11 @@ Voici les quelques outils et technique pour mener à bien sa veille technologiqu
 
 # Ce que je presente
 
-Dans le cadre de mon BTS, ma veille technologique se portera sur...
+J'organise ma veille technologique en cherchant des cours sur OpenClassroom et en lisant les documentations récentes et actualiées des technologies que j'utilise. Pour découvrir les nouvelles technologies, je consulte Google News, qui me suggere automatiquement d'apres mes centres d'interets. Tres concretement, j'ai étudié les technologies suivantes:
+
+- Kafka
+- VueJS
+- le SEO
+- la Robotique
+- Tor
+- etc...
